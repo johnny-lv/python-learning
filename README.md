@@ -22,23 +22,26 @@ Markdown learning
 * Red
 * Green
 * Blue
+
 ## Plus style
 + Red
 + Green
 + Blue
+
 ## Negative style
 - Red
 - Green
 - Blue
+
 ## Ordering style
 1. Red
 2. Green
 3. Blue
 
 # Tag Pre and Code
-function sing() {
+`function sing() {
     console.log('Sing.......');
-}
+}`
 
 Use the `sing()` function
 ``There is a literal backtick(`) here``
