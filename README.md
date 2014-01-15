@@ -1,7 +1,11 @@
 python-learning
 ===============
 
-This is *the* **project** [Python Leaning](https://github.com/johnny-lv/python-learning)
+**To-Do List**
+* *Python* programming
+* *Django* framwork
+* *Django CMS*
+
 
 Markdown learning
 ---------------
